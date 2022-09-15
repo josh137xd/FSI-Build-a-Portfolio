@@ -1,0 +1,23 @@
+body {
+    background: rgb(60, 162, 247);
+    color: black;
+}
+h1 {color: rgb(10, 10, 10);
+    font-size: 60px;font-variant: small-caps;
+}
+h2 {color: rgb(39, 6, 228);font-size: 38px;
+
+}
+h3 {color: blueviolet; font-size: 30px;
+
+
+}
+li {
+    display: inline-block;
+}
+img{width: 150px;
+    border: 20px rgb(0, 27, 37);
+}
+p {font-size: 15px;font-variant:all-petite-caps;font-weight: bold;
+
+}
